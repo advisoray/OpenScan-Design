@@ -1,6 +1,6 @@
 # ScanDome v1.1
 
-![](cad-view-front.png)
+![](img/cad-view-front.png)
 
 Block out a noisy background for cleaner scans.  This is specifically built for the OpenScan Mini v1.
 
@@ -35,4 +35,4 @@ Printed in Inland White PLA+.
 
 This was designed in OnShape.  Feel free to make a copy yourself and change it to suit your needs.
 
-[](https://cad.onshape.com/documents/bbc5671350f2efceec423882/w/e5e7f9a0af473f2fc05592b5/e/c94886a7ce4cdc3cb071335e)
+[https://cad.onshape.com/documents/bbc5671350f2efceec423882/w/e5e7f9a0af473f2fc05592b5/e/c94886a7ce4cdc3cb071335e](https://cad.onshape.com/documents/bbc5671350f2efceec423882/w/e5e7f9a0af473f2fc05592b5/e/c94886a7ce4cdc3cb071335e)
