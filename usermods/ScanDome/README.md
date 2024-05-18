@@ -1,8 +1,8 @@
 # ScanDome v1.1
 
-![](img/cad-view-front.png)
-
 Block out a noisy background for cleaner scans.  This is specifically built for the OpenScan Mini v1.
+
+![](img/cad-view-front.png)
 
 
 ## Design
